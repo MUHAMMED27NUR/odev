@@ -1,0 +1,13 @@
+C:\Users\al baraa pc\Downloads\MY home wourk\MY home wourk\obj\Debug\MY home wourk.csproj.AssemblyReference.cache
+C:\Users\al baraa pc\Downloads\MY home wourk\MY home wourk\obj\Debug\MY home wourk.csproj.SuggestedBindingRedirects.cache
+C:\Users\al baraa pc\Downloads\MY home wourk\MY home wourk\obj\Debug\MY_home_wourk.Form1.resources
+C:\Users\al baraa pc\Downloads\MY home wourk\MY home wourk\obj\Debug\MY_home_wourk.Properties.Resources.resources
+C:\Users\al baraa pc\Downloads\MY home wourk\MY home wourk\obj\Debug\MY home wourk.csproj.GenerateResource.cache
+C:\Users\al baraa pc\Downloads\MY home wourk\MY home wourk\obj\Debug\MY home wourk.csproj.CoreCompileInputs.cache
+C:\Users\al baraa pc\Downloads\MY home wourk\MY home wourk\bin\Debug\MY home wourk.exe.config
+C:\Users\al baraa pc\Downloads\MY home wourk\MY home wourk\bin\Debug\MY home wourk.exe
+C:\Users\al baraa pc\Downloads\MY home wourk\MY home wourk\bin\Debug\MY home wourk.pdb
+C:\Users\al baraa pc\Downloads\MY home wourk\MY home wourk\obj\Debug\MY home wourk.exe
+C:\Users\al baraa pc\Downloads\MY home wourk\MY home wourk\obj\Debug\MY home wourk.pdb
+C:\Users\al baraa pc\Downloads\MY home wourk\MY home wourk\obj\Debug\vizefinal.Form1.resources
+C:\Users\al baraa pc\Downloads\MY home wourk\MY home wourk\obj\Debug\ders.Form1.resources
